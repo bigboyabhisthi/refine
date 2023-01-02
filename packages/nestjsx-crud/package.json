@@ -33,7 +33,7 @@
     }
   ],
   "devDependencies": {
-    "@size-limit/preset-small-lib": "^4.10.1",
+    "@size-limit/preset-small-lib": "^8.1.0",
     "nock": "^13.0.11",
     "size-limit": "^4.10.1",
     "tsdx": "^0.14.1",
